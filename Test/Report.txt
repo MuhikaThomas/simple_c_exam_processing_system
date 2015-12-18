@@ -1,0 +1,29 @@
+Class: Form 1A
+Number of students: 2
+********
+Student name: Student name: Peter Pan
+Registration number: Stud 0001
+
+Marks for Term 1
+1.English: 32	2.Kiswahili: 65
+3.Physics: 76	4.Mathematics: 87
+5.Biology: 98	6.Chemistry: 76
+7.History: 54	8.Computer studies: 76
+Total marks: 564
+Mean Grade: A
+Comment: Excellent.. Keep up the good work
+********
+
+Student name: Student name: Black Beard
+Registration number: Stud 0002
+
+Marks for Term 1
+1.English: 87	2.Kiswahili: 54
+3.Physics: 76	4.Mathematics: 54
+5.Biology: 87	6.Chemistry: 65
+7.History: 54	8.Computer studies: 98
+Total marks: 575
+Mean Grade: A
+Comment: Excellent.. Keep up the good work
+********
+
