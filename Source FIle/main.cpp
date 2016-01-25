@@ -44,7 +44,7 @@ int student::studentdetails(){
 	cout<<"How many students are in that class: \n";
 	cin>>num;
 	cout<<"********\n";
-	cin.ignore();//ignore the \n occuring due to use oc cin>>> and getline
+	cin.ignore();//ignore the \n occuring due to use of cin>>> and getline
 	for(int k=1; k<=num; k++){
 		cout<<"Enter the name of student "<<k<<" :\n";
 		getline(cin, name[k]);
