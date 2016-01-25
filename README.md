@@ -1,4 +1,4 @@
-# simple_c-_exam_processing_system
+# simple_c++_exam_processing_system
 This is a simple c++ exam processing system for a test highschool.
 
 you are required to dev an exam processing system for a sec school using c++. The system should
